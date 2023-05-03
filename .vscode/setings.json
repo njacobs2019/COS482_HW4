@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/nick/miniconda3/envs/DSHW4/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.analysis.typeCheckingMode": "off"
+}
